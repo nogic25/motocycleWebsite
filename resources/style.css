@@ -27,7 +27,7 @@ color: white;
     height: 1.5em;
 }
 .main-banner {
-    background: url("/Users/anastasiya/webDevprojects/SecretAgentSupply/images/moto.jpeg");
+    background: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
